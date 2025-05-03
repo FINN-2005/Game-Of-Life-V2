@@ -21,8 +21,8 @@ This project **requires** my custom Pygame framework, `pygame_template`, to func
 1.  **Clone the Game of Life V2 repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone https://github.com/FINN-2005/Game-Of-Life-V2.git
+    cd Game-Of-Life-V2
     ```
 
 2.  **Install the `pygame_template` framework from GitHub:**
@@ -30,7 +30,7 @@ This project **requires** my custom Pygame framework, `pygame_template`, to func
     * **Note:** As `pygame_template` is not available on PyPI, you will need to install it directly from my GitHub repository. The command will look something like this:
 
         ```bash
-        pip install git+[https://github.com/FINN-2005/pygame_template.git](https://github.com/FINN-2005/pygame_template.git)
+        pip install git+https://github.com/FINN-2005/pygame_template.git
         ```
 
 ## How to Run
@@ -38,7 +38,7 @@ This project **requires** my custom Pygame framework, `pygame_template`, to func
 1.  **Navigate to the project directory (if you haven't already):**
 
     ```bash
-    cd <repository_directory>
+    cd Game-Of-Life-V2
     ```
 
 2.  **Run the game:**
