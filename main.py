@@ -1,4 +1,4 @@
-from mine.pygame_template import *
+from pygame_template import *
 
 GRID_W, GRID_H = 50, 50
 CELL_SIZE = 17
